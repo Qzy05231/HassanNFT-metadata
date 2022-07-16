@@ -1,0 +1,8 @@
+{
+  "name": "Clover Guys",
+  "description": "Clover Test",
+  "image": "https://img1.baidu.com/it/u=2477269058,3483894493&fm=253&fmt=auto&app=138&f=JPEG?w=450&h=470",
+  "external_link": "hao123.com",
+  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
+  "fee_recipient": "0x55c0C17Fe2241A50EAeCEce781D7f76BF7d8ADB7" # Where seller fees will be paid to.
+}
