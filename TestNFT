@@ -1,35 +1,32 @@
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/1", 
-  "image": "https://img1.baidu.com/it/u=2834574556,3900727229&fm=253&fmt=auto&app=138&f=JPEG?w=380&h=570", 
-  "name": "Yoga #1",
-  "attributes": [ sun ], 
+  "name": "Clover",
+  "description": "Clover Test",
+  "image": "https://img1.baidu.com/it/u=4005934715,2418080013&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=317",
+  "external_link": "hao123.com",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x55c0C17Fe2241A50EAeCEce781D7f76BF7d8ADB7"
 }
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/2", 
-  "image": "https://img0.baidu.com/it/u=3570567071,2501994604&fm=253&fmt=auto&app=138&f=JPEG?w=720&h=480", 
-  "name": "Yoga #2",
-  "attributes": [ moon ], 
+  "name": "Clover",
+  "description": "Clover Test",
+  "image": "https://img2.baidu.com/it/u=3845149822,2038161248&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=325",
+  "external_link": "hao123.com",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x55c0C17Fe2241A50EAeCEce781D7f76BF7d8ADB7"
 }
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://img0.baidu.com/it/u=431545561,3065193040&fm=253&fmt=auto&app=138&f=JPEG?w=583&h=500", 
-  "name": "Yoga #3",
-  "attributes": [ star ], 
+  "name": "Clover",
+  "description": "Clover Test",
+  "image": "https://img0.baidu.com/it/u=1899420344,1985821892&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=1000",
+  "external_link": "hao123.com",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x55c0C17Fe2241A50EAeCEce781D7f76BF7d8ADB7"
 }
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://img1.baidu.com/it/u=2264725747,2049941805&fm=253&fmt=auto&app=120&f=JPEG?w=700&h=687", 
-  "name": "Yoga #4",
-  "attributes": [ venus ], 
-}
-{
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://img2.baidu.com/it/u=697772423,3414693864&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=290", 
-  "name": "Yoga #5",
-  "attributes": [ mars ], 
+  "name": "Clover",
+  "description": "Clover Test",
+  "image": "https://img0.baidu.com/it/u=1630896685,3115839137&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400",
+  "external_link": "hao123.com",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x55c0C17Fe2241A50EAeCEce781D7f76BF7d8ADB7"
 }
